@@ -1,0 +1,12 @@
+# Ignore the virtual environment directory
+myenv/
+
+# Ignore the output directory
+output/
+
+# Ignore the .py file
+main.py
+mainfinal.py
+varun.py
+main_2.py
+iden_webcm_strm.py
