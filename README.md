@@ -16,7 +16,9 @@ Installation
 ------------
 Create a virtual environment in the root directory:
 
-`pip install virtualenv`
+```bash
+pip install virtualenv
+```
 
 `virtualenv <env name>`
 
